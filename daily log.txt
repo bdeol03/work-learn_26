@@ -1,0 +1,90 @@
+May 27: first official start date on workday
+
+Wednesday June 3: First (actual day)
+  Meeting with Lizzie and Mao, lab meeting with everyone and then added tree ring data to my laptop with Mao
+
+Thursday June 4
+  Worked for 2 hours refreshing my memory on GitHub and RStudio. I have never used Git Bash before so I had to watch a few tutorials online/downloaded the software.
+
+Friday June 5
+Worked for 2 hours and completed sandbox tutorial for basic git commands
+
+Tuesday June 9
+Worked for 1 hour on AE10 tree rings
+
+Wednesday June 10
+Sent an email, continued working on TSME tree rings and then I got bit by a wasp so I called it quits (Hours:1)
+
+Thursday June 11
+I worked on tree rings for an hour
+
+Friday June 12
+Visited the lab, sent an email, worked on tree rings for an hour
+
+Monday June 15 - Monday June 29 
+Big sister's wedding, another family wedding in Prince George the following week, did not get any tree rings done
+
+Tuesday June 30
+Tree rings completed: TSME 7826(2), ABAM 7177(1), 7177(2) - some regions I had a few questions about to ask Mao about later - 7198(1), 7198(2) and started 7263(1)
+(total hours: 3)
+
+Friday July 3
+Drove to campus, asked Mao my questions regarding some tree rings and continued working on them
+(total hours: 3)
+
+Tuesday July 7
+Started at 2:30pm and continued on AE10 tree rings, analyzed old paper for lab meeting the next day
+(total hours: 3)
+
+Wednesday July 8
+Lab meeting at 3pm, left lab by 4:30pm and worked on tree rings later that night for 4 hours
+(total hours: 5.5)
+
+Thursday July 9
+Worked on tree rings throughout the day at varying times with breaks in between but did total 6 hours of work
+
+Friday July 10
+Measured tree rings for 4hr 30 mins
+
+Saturday July 11
+Measured tree rings for one hour
+
+Sunday July 12
+Worked on tree rings for 2 hours
+
+Sunday July 12 - Friday July 17: field work trip to Smithers
+(total hours: 30)
+
+Monday July 20
+Worked on replicating the map of sites figure with started code from Lizzie. I had to watch some youtube videos on how to visualize maps using RStudio (first time doing it). I did not use any AI to help with my coding script.
+(total hours: 4 hours)
+
+Wednesday July 22
+Helped unpack car before meeting with Mao, lab meeting, meeting with Lizzie on tree data tasks, started looking into coding tasks
+(total hours: 5h 30)
+
+Friday July 24
+Got to the lab by 11am and (can't rmbr if I helped pack the car for Mt Rainier this day or Wednesday). Started working on repos and reading up on Greg ONeill and his involvement with provenance studies. Took a break to pick some blackberries with Mao by Totem. 
+(total hours: 5)
+
+Monday July 27 - Friday July 31: Field work at Mt. Rainier
+(total hours: 30)
+
+Tuesday August 4
+Continued working on genecology repo data viz. Met with Mao, Victor and Christophe to help pack up Christophe's closed experiment. 
+(total hours: 4)
+
+Wednesday August 5
+Car wasn't starting so I couldn't make it to the lab meeting. Ended up working on tree core measurements from home.
+(total hours: 2.5)
+
+Thursday August 6
+Had some trouble working with the genecology prov data (so many provs to have in a graph). Did refer to AI for help with basic commands (with approval from Lizzie). Met with Lizzie and asked her my questions regarding the data and also got access to the lab tumblr. 
+(total hours: 5.5)
+
+Friday August 7
+Got to the lab around 11:30 and helped Mao clean the inside of the car. Put away all the fieldwork equipment in the locker/lab. Took photos of the dead germinants. Completed tumblr post for Smithers, Mt Rainier and soil inoculation experiment. Submitted my hours to worklearn (on time).
+(total hours: 3)
+
+Sunday August 9
+(11:45am) Uploaded this repo and filled in all my daily logs from Word onto here. Taking a break (1:15-2:15). Added all my hours onto shared excel document (2:15-3:00).  
