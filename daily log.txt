@@ -93,4 +93,7 @@ Monday August 10
 (10:00) Continued working on tree core measurements. Went for lunch (12:00-12:45). Started working on coding assignments from genecology repo (12:45-3:30). Total hours: 4.75
 
 Tuesday August 11
-(3:00pm) Began working on data viz for genecology repo. Created 2 sets of graphs (MAT & MAP). I realized some functions I was using were from tidyverse so I had to go back and rewrite some functions (e.g. pivot_longer). This took some time as I am learning base R language at the same time. (5:00) Clocking out. 
+(3:00pm) Began working on data viz for genecology repo. Created 2 sets of graphs (MAT & MAP). I realized some functions I was using were from tidyverse so I had to go back and rewrite some functions (e.g. pivot_longer). This took some time as I am learning base R language at the same time. (5:00pm) Clocking out. (8:00-9:30pm) Worked on tree rings. Total hours: 3.5hrs
+
+Wednesday August 12
+(10:00am) Clocked in. Worked on tree rings. (13:00-14:30) Went for lunch. Continued working on tree rings. (17:00)Clocked out. Total hours: 5.5hrs
