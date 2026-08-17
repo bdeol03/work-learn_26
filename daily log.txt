@@ -105,5 +105,5 @@ Friday August 14
 (7:30-9:30) Reviewed(re-learned) basic GitHub functions online and overviewed my tasks, forked the genecologypicea repo, uploaded all my work and create a pull request to the base repo. Gave Mao AE10 and got SUNR as well as the lab laptop. Started working on SUNR. Became more familiar with git bash. (12:00-6:00pm) total hours: 8
 
 Monday August 17
-(10:45) clocked in.
+(10:45) clocked in. Looked into background refs/Hardy's Msc thesis for douglasfir repo. (1-1:30) Lunch. Worked on tree cores for SUNR. Completed TSME_724(2), 727 (1&2), and 730(1). (3:45pm) Clocked out. 
 
