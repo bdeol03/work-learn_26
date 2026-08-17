@@ -96,4 +96,14 @@ Tuesday August 11
 (3:00pm) Began working on data viz for genecology repo. Created 2 sets of graphs (MAT & MAP). I realized some functions I was using were from tidyverse so I had to go back and rewrite some functions (e.g. pivot_longer). This took some time as I am learning base R language at the same time. (5:00pm) Clocking out. (8:00-9:30pm) Worked on tree rings. Total hours: 3.5hrs
 
 Wednesday August 12
-(10:00am) Clocked in. Worked on tree rings. (13:00-14:30) Went for lunch. Continued working on tree rings. (17:00)Clocked out. Total hours: 5.5hrs
+(10:00am) Clocked in. Worked on tree rings. (13:00-14:30) Went for lunch. Continued working on tree rings. (17:00)Clocked out. Total hours: 5.5hrs.
+
+Thursday August 13
+(11:15-12:00) Looked over coding script and graphs, sent them to Lizzie. 
+
+Friday August 14
+(7:30-9:30) Reviewed(re-learned) basic GitHub functions online and overviewed my tasks, forked the genecologypicea repo, uploaded all my work and create a pull request to the base repo. Gave Mao AE10 and got SUNR as well as the lab laptop. Started working on SUNR. Became more familiar with git bash. (12:00-6:00pm) total hours: 8
+
+Monday August 17
+(10:45) clocked in.
+
